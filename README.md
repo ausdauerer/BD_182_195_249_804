@@ -1,6 +1,9 @@
 # BD_182_195_249_804
 This is the repository for the Big Data Project from PES University about Machine Learning using Spark.
 
+The dataset being streamed has been selected from the google drive which has been provided,
+
+Drive Link - https://drive.google.com/drive/folders/1hKe06r4TYxqQOwEOUrk6i9e15Vt2EZGC
 
 Streaming Data:
 
