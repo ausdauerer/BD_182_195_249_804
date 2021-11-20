@@ -1,468 +1,508 @@
-========= 2021-11-20 00:13:11 =========
-========= 2021-11-20 00:13:13 =========
+========= 2021-11-20 09:31:55 =========
+========= 2021-11-20 09:32:00 =========
+transfers from ees spam
+========= 2021-11-20 09:32:05 =========
+transfers from ees spam
 fw : re ivanhoe e . s . d spam
+========= 2021-11-20 09:32:10 =========
+transfers from ees spam
+fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
+========= 2021-11-20 09:32:15 =========
+transfers from ees spam
+fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
 meoh plant status ham
-========= 2021-11-20 00:13:15 =========
+========= 2021-11-20 09:32:20 =========
+transfers from ees spam
 fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
 meoh plant status ham
+re : tenaska iv spam
+========= 2021-11-20 09:32:25 =========
+transfers from ees spam
 fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
+meoh plant status ham
+re : tenaska iv spam
+fw : re ivanhoe e . s . d spam
+========= 2021-11-20 09:32:30 =========
+transfers from ees spam
+fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
+meoh plant status ham
+re : tenaska iv spam
+fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
+========= 2021-11-20 09:32:35 =========
+transfers from ees spam
+fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
+meoh plant status ham
+re : tenaska iv spam
+fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
 enron mentions ham
-========= 2021-11-20 00:13:17 =========
+========= 2021-11-20 09:32:40 =========
+transfers from ees spam
 fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
 meoh plant status ham
+re : tenaska iv spam
 fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
 enron mentions ham
+transfers from ees spam
+========= 2021-11-20 09:32:45 =========
+transfers from ees spam
+fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
+meoh plant status ham
+re : tenaska iv spam
+fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
+enron mentions ham
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+========= 2021-11-20 09:32:50 =========
+transfers from ees spam
+fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
+meoh plant status ham
+re : tenaska iv spam
+fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
+enron mentions ham
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+========= 2021-11-20 09:32:55 =========
+transfers from ees spam
+fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
+meoh plant status ham
+re : tenaska iv spam
+fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
+enron mentions ham
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
 start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
 start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
-========= 2021-11-20 00:13:19 =========
+========= 2021-11-20 09:33:00 =========
+transfers from ees spam
 fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
 meoh plant status ham
+re : tenaska iv spam
 fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
 enron mentions ham
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
 start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
 start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
-re : priority customer list ham
-entouch newsletter ham
-========= 2021-11-20 00:13:21 =========
 fw : re ivanhoe e . s . d spam
+========= 2021-11-20 09:33:05 =========
+transfers from ees spam
+fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
 meoh plant status ham
+re : tenaska iv spam
 fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
 enron mentions ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
-re : priority customer list ham
-entouch newsletter ham
 transfers from ees spam
 start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-========= 2021-11-20 00:13:23 =========
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
 fw : re ivanhoe e . s . d spam
+re : priority customer list ham
+========= 2021-11-20 09:33:10 =========
+transfers from ees spam
+fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
+meoh plant status ham
+re : tenaska iv spam
+fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
 enron mentions ham
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
 start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
 start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
 re : priority customer list ham
-entouch newsletter ham
+new consultants added to enron tiger ham
+========= 2021-11-20 09:33:15 =========
+transfers from ees spam
+fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
+meoh plant status ham
+re : tenaska iv spam
+fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
+enron mentions ham
 transfers from ees spam
 start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-re : srf for sandeep kohli : eva : remedy 364463 ham
-wisconsin winter fuels meeting ham
-========= 2021-11-20 00:13:25 =========
 start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
 start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
 re : priority customer list ham
+new consultants added to enron tiger ham
 entouch newsletter ham
+========= 2021-11-20 09:33:20 =========
+transfers from ees spam
+fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
+meoh plant status ham
+re : tenaska iv spam
+fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
+enron mentions ham
 transfers from ees spam
 start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-re : srf for sandeep kohli : eva : remedy 364463 ham
-wisconsin winter fuels meeting ham
 start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-re : tenaska iv spam
-========= 2021-11-20 00:13:27 =========
+start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
 re : priority customer list ham
+new consultants added to enron tiger ham
 entouch newsletter ham
+weekly deal report ham
+========= 2021-11-20 09:33:25 =========
 transfers from ees spam
+fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
+meoh plant status ham
+re : tenaska iv spam
+fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
+enron mentions ham
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
+re : priority customer list ham
+new consultants added to enron tiger ham
+entouch newsletter ham
+weekly deal report ham
+transfers from ees spam
+========= 2021-11-20 09:33:30 =========
+transfers from ees spam
+fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
+meoh plant status ham
+re : tenaska iv spam
+fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
+enron mentions ham
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
+re : priority customer list ham
+new consultants added to enron tiger ham
+entouch newsletter ham
+weekly deal report ham
+transfers from ees spam
+transfers from ees spam
+========= 2021-11-20 09:33:35 =========
+transfers from ees spam
+fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
+meoh plant status ham
+re : tenaska iv spam
+fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
+enron mentions ham
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
+re : priority customer list ham
+new consultants added to enron tiger ham
+entouch newsletter ham
+weekly deal report ham
+transfers from ees spam
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+========= 2021-11-20 09:33:40 =========
+fw : re ivanhoe e . s . d spam
+re : enerfin meter 980439 for 10 / 00 ham
+meoh plant status ham
+re : tenaska iv spam
+fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
+enron mentions ham
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
+re : priority customer list ham
+new consultants added to enron tiger ham
+entouch newsletter ham
+weekly deal report ham
+transfers from ees spam
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+========= 2021-11-20 09:33:45 =========
+re : enerfin meter 980439 for 10 / 00 ham
+meoh plant status ham
+re : tenaska iv spam
+fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
+enron mentions ham
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
+re : priority customer list ham
+new consultants added to enron tiger ham
+entouch newsletter ham
+weekly deal report ham
+transfers from ees spam
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
 start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
 re : srf for sandeep kohli : eva : remedy 364463 ham
-wisconsin winter fuels meeting ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+========= 2021-11-20 09:33:50 =========
+meoh plant status ham
 re : tenaska iv spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : 05 / 01 deal # 649741 ham
-========= 2021-11-20 00:13:29 =========
+fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
+enron mentions ham
 transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
+re : priority customer list ham
+new consultants added to enron tiger ham
+entouch newsletter ham
+weekly deal report ham
+transfers from ees spam
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
 start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
 re : srf for sandeep kohli : eva : remedy 364463 ham
-wisconsin winter fuels meeting ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+enron all - employee meeting notice ham
+========= 2021-11-20 09:33:55 =========
 re : tenaska iv spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : 05 / 01 deal # 649741 ham
+fw : re ivanhoe e . s . d spam
 fw : memo : re : your work phone number spam
+enron mentions ham
 transfers from ees spam
-========= 2021-11-20 00:13:31 =========
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
+re : priority customer list ham
+new consultants added to enron tiger ham
+entouch newsletter ham
+weekly deal report ham
+transfers from ees spam
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
 re : srf for sandeep kohli : eva : remedy 364463 ham
+enron all - employee meeting notice ham
 wisconsin winter fuels meeting ham
+========= 2021-11-20 09:34:00 =========
+fw : re ivanhoe e . s . d spam
+fw : memo : re : your work phone number spam
+enron mentions ham
+transfers from ees spam
 start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
+re : priority customer list ham
+new consultants added to enron tiger ham
+entouch newsletter ham
+weekly deal report ham
+transfers from ees spam
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+re : srf for sandeep kohli : eva : remedy 364463 ham
+enron all - employee meeting notice ham
+wisconsin winter fuels meeting ham
+re : releases spam
+========= 2021-11-20 09:34:05 =========
+fw : memo : re : your work phone number spam
+enron mentions ham
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
+re : priority customer list ham
+new consultants added to enron tiger ham
+entouch newsletter ham
+weekly deal report ham
+transfers from ees spam
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+re : srf for sandeep kohli : eva : remedy 364463 ham
+enron all - employee meeting notice ham
+wisconsin winter fuels meeting ham
+re : releases spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+========= 2021-11-20 09:34:10 =========
+enron mentions ham
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
+re : priority customer list ham
+new consultants added to enron tiger ham
+entouch newsletter ham
+weekly deal report ham
+transfers from ees spam
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+re : srf for sandeep kohli : eva : remedy 364463 ham
+enron all - employee meeting notice ham
+wisconsin winter fuels meeting ham
+re : releases spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+re : releases spam
+========= 2021-11-20 09:34:15 =========
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
+re : priority customer list ham
+new consultants added to enron tiger ham
+entouch newsletter ham
+weekly deal report ham
+transfers from ees spam
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+re : srf for sandeep kohli : eva : remedy 364463 ham
+enron all - employee meeting notice ham
+wisconsin winter fuels meeting ham
+re : releases spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+re : releases spam
 re : tenaska iv spam
+========= 2021-11-20 09:34:20 =========
 start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
+re : priority customer list ham
+new consultants added to enron tiger ham
+entouch newsletter ham
+weekly deal report ham
+transfers from ees spam
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+re : srf for sandeep kohli : eva : remedy 364463 ham
+enron all - employee meeting notice ham
+wisconsin winter fuels meeting ham
+re : releases spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+re : releases spam
+re : tenaska iv spam
+transactions with municipalities or other governmental agencies ham
+========= 2021-11-20 09:34:25 =========
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
+re : priority customer list ham
+new consultants added to enron tiger ham
+entouch newsletter ham
+weekly deal report ham
+transfers from ees spam
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+re : srf for sandeep kohli : eva : remedy 364463 ham
+enron all - employee meeting notice ham
+wisconsin winter fuels meeting ham
+re : releases spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+re : releases spam
+re : tenaska iv spam
+transactions with municipalities or other governmental agencies ham
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+========= 2021-11-20 09:34:30 =========
+start date : 12 / 30 / 01 ; hourahead hour : 2 ; ham
+fw : re ivanhoe e . s . d spam
+re : priority customer list ham
+new consultants added to enron tiger ham
+entouch newsletter ham
+weekly deal report ham
+transfers from ees spam
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+re : srf for sandeep kohli : eva : remedy 364463 ham
+enron all - employee meeting notice ham
+wisconsin winter fuels meeting ham
+re : releases spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+re : releases spam
+re : tenaska iv spam
+transactions with municipalities or other governmental agencies ham
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+fw : re ivanhoe e . s . d spam
+========= 2021-11-20 09:34:35 =========
+fw : re ivanhoe e . s . d spam
+re : priority customer list ham
+new consultants added to enron tiger ham
+entouch newsletter ham
+weekly deal report ham
+transfers from ees spam
+transfers from ees spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+re : srf for sandeep kohli : eva : remedy 364463 ham
+enron all - employee meeting notice ham
+wisconsin winter fuels meeting ham
+re : releases spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+re : releases spam
+re : tenaska iv spam
+transactions with municipalities or other governmental agencies ham
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+fw : re ivanhoe e . s . d spam
 fw : 05 / 01 deal # 649741 ham
-fw : memo : re : your work phone number spam
+========= 2021-11-20 09:34:40 =========
+re : priority customer list ham
+new consultants added to enron tiger ham
+entouch newsletter ham
+weekly deal report ham
 transfers from ees spam
-stratospheric levels - - cera monthly briefing ham
+transfers from ees spam
 start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-========= 2021-11-20 00:13:33 =========
 start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+re : srf for sandeep kohli : eva : remedy 364463 ham
+enron all - employee meeting notice ham
+wisconsin winter fuels meeting ham
+re : releases spam
+start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+re : releases spam
 re : tenaska iv spam
+transactions with municipalities or other governmental agencies ham
 start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
+fw : re ivanhoe e . s . d spam
 fw : 05 / 01 deal # 649741 ham
-fw : memo : re : your work phone number spam
-transfers from ees spam
-stratospheric levels - - cera monthly briefing ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-dave n out of pocket next week , beyond ham
-enron credit : more recent business plan ham
-========= 2021-11-20 00:13:35 =========
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : 05 / 01 deal # 649741 ham
-fw : memo : re : your work phone number spam
-transfers from ees spam
-stratospheric levels - - cera monthly briefing ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-dave n out of pocket next week , beyond ham
-enron credit : more recent business plan ham
-transfers from ees spam
-re : releases spam
-========= 2021-11-20 00:13:37 =========
-fw : memo : re : your work phone number spam
-transfers from ees spam
-stratospheric levels - - cera monthly briefing ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-dave n out of pocket next week , beyond ham
-enron credit : more recent business plan ham
-transfers from ees spam
-re : releases spam
-re : tenaska iv spam
-global strategic sourcing travel services survey ham
-========= 2021-11-20 00:13:39 =========
-stratospheric levels - - cera monthly briefing ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-dave n out of pocket next week , beyond ham
-enron credit : more recent business plan ham
-transfers from ees spam
-re : releases spam
-re : tenaska iv spam
-global strategic sourcing travel services survey ham
-mhi turbines ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-========= 2021-11-20 00:13:41 =========
-dave n out of pocket next week , beyond ham
-enron credit : more recent business plan ham
-transfers from ees spam
-re : releases spam
-re : tenaska iv spam
-global strategic sourcing travel services survey ham
-mhi turbines ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : memo : re : your work phone number spam
-========= 2021-11-20 00:13:43 =========
-transfers from ees spam
-re : releases spam
-re : tenaska iv spam
-global strategic sourcing travel services survey ham
-mhi turbines ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : memo : re : your work phone number spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-transfers from ees spam
-========= 2021-11-20 00:13:45 =========
-re : tenaska iv spam
-global strategic sourcing travel services survey ham
-mhi turbines ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : memo : re : your work phone number spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-transfers from ees spam
-strange bedfellows ham
-confirming your attendance - oct . 19 / 20 - wharton ham
-========= 2021-11-20 00:13:47 =========
-mhi turbines ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : memo : re : your work phone number spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-transfers from ees spam
-strange bedfellows ham
-confirming your attendance - oct . 19 / 20 - wharton ham
-re : silence . . . . . . . . . . . . . ham
-fw : ham
-========= 2021-11-20 00:13:49 =========
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : memo : re : your work phone number spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-transfers from ees spam
-strange bedfellows ham
-confirming your attendance - oct . 19 / 20 - wharton ham
-re : silence . . . . . . . . . . . . . ham
-fw : ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-========= 2021-11-20 00:13:51 =========
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-transfers from ees spam
-strange bedfellows ham
-confirming your attendance - oct . 19 / 20 - wharton ham
-re : silence . . . . . . . . . . . . . ham
-fw : ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : re ivanhoe e . s . d spam
-darden case study on " the transformation of enron " ham
-========= 2021-11-20 00:13:53 =========
-strange bedfellows ham
-confirming your attendance - oct . 19 / 20 - wharton ham
-re : silence . . . . . . . . . . . . . ham
-fw : ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : re ivanhoe e . s . d spam
-darden case study on " the transformation of enron " ham
-transfers from ees spam
-market price volatility may 1 - 3 houston ham
-========= 2021-11-20 00:13:55 =========
-re : silence . . . . . . . . . . . . . ham
-fw : ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : re ivanhoe e . s . d spam
-darden case study on " the transformation of enron " ham
-transfers from ees spam
-market price volatility may 1 - 3 houston ham
-re : tenaska iv spam
-fw : re ivanhoe e . s . d spam
-========= 2021-11-20 00:13:57 =========
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : re ivanhoe e . s . d spam
-darden case study on " the transformation of enron " ham
-transfers from ees spam
-market price volatility may 1 - 3 houston ham
-re : tenaska iv spam
-fw : re ivanhoe e . s . d spam
-re : operational risk ham
-fw : equistar noms ham
-========= 2021-11-20 00:13:59 =========
-fw : re ivanhoe e . s . d spam
-darden case study on " the transformation of enron " ham
-transfers from ees spam
-market price volatility may 1 - 3 houston ham
-re : tenaska iv spam
-fw : re ivanhoe e . s . d spam
-re : operational risk ham
-fw : equistar noms ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : re ivanhoe e . s . d spam
-========= 2021-11-20 00:14:01 =========
-transfers from ees spam
-market price volatility may 1 - 3 houston ham
-re : tenaska iv spam
-fw : re ivanhoe e . s . d spam
-re : operational risk ham
-fw : equistar noms ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : re ivanhoe e . s . d spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-re : tenaska iv spam
-========= 2021-11-20 00:14:03 =========
-re : tenaska iv spam
-fw : re ivanhoe e . s . d spam
-re : operational risk ham
-fw : equistar noms ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : re ivanhoe e . s . d spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-re : tenaska iv spam
-transfers from ees spam
-fw : memo : re : your work phone number spam
-========= 2021-11-20 00:14:05 =========
-re : operational risk ham
-fw : equistar noms ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : re ivanhoe e . s . d spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-re : tenaska iv spam
-transfers from ees spam
-fw : memo : re : your work phone number spam
-there was no cash trading today due to veterans day . few utilities were in as a result . here is what we saw today . ham
-meter 6884 ham
-========= 2021-11-20 00:14:07 =========
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-fw : re ivanhoe e . s . d spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-re : tenaska iv spam
-transfers from ees spam
-fw : memo : re : your work phone number spam
-there was no cash trading today due to veterans day . few utilities were in as a result . here is what we saw today . ham
-meter 6884 ham
-fw : re ivanhoe e . s . d spam
-start date : 12 / 27 / 01 ; hourahead hour : 4 ; ham
-========= 2021-11-20 00:14:09 =========
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-re : tenaska iv spam
-transfers from ees spam
-fw : memo : re : your work phone number spam
-there was no cash trading today due to veterans day . few utilities were in as a result . here is what we saw today . ham
-meter 6884 ham
-fw : re ivanhoe e . s . d spam
-start date : 12 / 27 / 01 ; hourahead hour : 4 ; ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-re : congestion ham
-========= 2021-11-20 00:14:11 =========
-transfers from ees spam
-fw : memo : re : your work phone number spam
-there was no cash trading today due to veterans day . few utilities were in as a result . here is what we saw today . ham
-meter 6884 ham
-fw : re ivanhoe e . s . d spam
-start date : 12 / 27 / 01 ; hourahead hour : 4 ; ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-re : congestion ham
-re : asian option for pavel ham
-re : metals - imminent actions - an update ham
-========= 2021-11-20 00:14:13 =========
-there was no cash trading today due to veterans day . few utilities were in as a result . here is what we saw today . ham
-meter 6884 ham
-fw : re ivanhoe e . s . d spam
-start date : 12 / 27 / 01 ; hourahead hour : 4 ; ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-re : congestion ham
-re : asian option for pavel ham
-re : metals - imminent actions - an update ham
-colleen sullivan - ees / wholesale project ham
-fw : re ivanhoe e . s . d spam
-========= 2021-11-20 00:14:15 =========
-fw : re ivanhoe e . s . d spam
-start date : 12 / 27 / 01 ; hourahead hour : 4 ; ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-re : congestion ham
-re : asian option for pavel ham
-re : metals - imminent actions - an update ham
-colleen sullivan - ees / wholesale project ham
-fw : re ivanhoe e . s . d spam
-start date : 1 / 26 / 02 ; hourahead hour : 17 ; ham
-re : contract status needed ham
-========= 2021-11-20 00:14:17 =========
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-re : congestion ham
-re : asian option for pavel ham
-re : metals - imminent actions - an update ham
-colleen sullivan - ees / wholesale project ham
-fw : re ivanhoe e . s . d spam
-start date : 1 / 26 / 02 ; hourahead hour : 17 ; ham
-re : contract status needed ham
-re : tenaska iv spam
-re : tenaska iv spam
-========= 2021-11-20 00:14:19 =========
-re : asian option for pavel ham
-re : metals - imminent actions - an update ham
-colleen sullivan - ees / wholesale project ham
-fw : re ivanhoe e . s . d spam
-start date : 1 / 26 / 02 ; hourahead hour : 17 ; ham
-re : contract status needed ham
-re : tenaska iv spam
-re : tenaska iv spam
-fw : memo : re : your work phone number spam
-transfers from ees spam
-========= 2021-11-20 00:14:21 =========
-colleen sullivan - ees / wholesale project ham
-fw : re ivanhoe e . s . d spam
-start date : 1 / 26 / 02 ; hourahead hour : 17 ; ham
-re : contract status needed ham
-re : tenaska iv spam
-re : tenaska iv spam
-fw : memo : re : your work phone number spam
-transfers from ees spam
-fw : re ivanhoe e . s . d spam
-transfers from ees spam
-========= 2021-11-20 00:14:23 =========
-start date : 1 / 26 / 02 ; hourahead hour : 17 ; ham
-re : contract status needed ham
-re : tenaska iv spam
-re : tenaska iv spam
-fw : memo : re : your work phone number spam
-transfers from ees spam
-fw : re ivanhoe e . s . d spam
-transfers from ees spam
-procedure for adding new capacity tickets for multi - desk service ham
-fw : memo : re : your work phone number spam
-========= 2021-11-20 00:14:25 =========
-re : tenaska iv spam
-re : tenaska iv spam
-fw : memo : re : your work phone number spam
-transfers from ees spam
-fw : re ivanhoe e . s . d spam
-transfers from ees spam
-procedure for adding new capacity tickets for multi - desk service ham
-fw : memo : re : your work phone number spam
-the ferc staff report on western markets and the causes of the ham
-transfers from ees spam
-========= 2021-11-20 00:14:27 =========
-fw : memo : re : your work phone number spam
-transfers from ees spam
-fw : re ivanhoe e . s . d spam
-transfers from ees spam
-procedure for adding new capacity tickets for multi - desk service ham
-fw : memo : re : your work phone number spam
-the ferc staff report on western markets and the causes of the ham
-transfers from ees spam
-transfers from ees spam
-re : ham
-========= 2021-11-20 00:14:29 =========
-fw : re ivanhoe e . s . d spam
-transfers from ees spam
-procedure for adding new capacity tickets for multi - desk service ham
-fw : memo : re : your work phone number spam
-the ferc staff report on western markets and the causes of the ham
-transfers from ees spam
-transfers from ees spam
-re : ham
-transfers from ees spam
-re : releases spam
-========= 2021-11-20 00:14:31 =========
-procedure for adding new capacity tickets for multi - desk service ham
-fw : memo : re : your work phone number spam
-the ferc staff report on western markets and the causes of the ham
-transfers from ees spam
-transfers from ees spam
-re : ham
-transfers from ees spam
-re : releases spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-transfers from ees spam
-========= 2021-11-20 00:14:33 =========
-the ferc staff report on western markets and the causes of the ham
-transfers from ees spam
-transfers from ees spam
-re : ham
-transfers from ees spam
-re : releases spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-transfers from ees spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-wip report ham
-========= 2021-11-20 00:14:35 =========
-transfers from ees spam
-re : ham
-transfers from ees spam
-re : releases spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-transfers from ees spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-wip report ham
-power spread option - curve access request ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-========= 2021-11-20 00:14:37 =========
-transfers from ees spam
-re : releases spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-transfers from ees spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-wip report ham
-power spread option - curve access request ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-txu fuel co . nom . s for 2 / 21 / 01 - revised ham
-fw : re ivanhoe e . s . d spam
-========= 2021-11-20 00:14:39 =========
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-transfers from ees spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-wip report ham
-power spread option - curve access request ham
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-txu fuel co . nom . s for 2 / 21 / 01 - revised ham
-fw : re ivanhoe e . s . d spam
-start date : 2 / 6 / 02 ; hourahead hour : 24 ; spam
-reliant ' s attempt at humor ham
+enron / hpl actuals for september 29 - october 1 , 2000 ham
+========= 2021-11-20 09:34:45 =========
 Traceback (most recent call last):
   File "/home/pes1ug19cs182/Documents/GitHub/BD_182_195_249_804/streamer.py", line 55, in <module>
     ssc.awaitTermination()

@@ -5,9 +5,9 @@ from pyspark.sql import Row, SparkSession
 import json
 
 #Hyper parameters for the dataframe 
-WINDOW_DURATION=10
-SLIDE_DURATION=2
-BATCH_INTERVAL=1
+WINDOW_DURATION=100
+SLIDE_DURATION=5
+BATCH_INTERVAL=5
 
 def parse_json(x):
     json_obj=json.loads(x)
@@ -23,8 +23,6 @@ def getSparkSessionInstance(sparkConf):
             .config(conf=sparkConf) \
             .getOrCreate()
     return globals()["sparkSessionSingletonInstance"]
-
-...
 
 # DataFrame operations inside your streaming program
 sc = SparkContext("local[2]", "NetworkWordCount")
