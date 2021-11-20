@@ -5,7 +5,7 @@ The dataset being streamed has been selected from the google drive which has bee
 
 Drive Link - https://drive.google.com/drive/folders/1hKe06r4TYxqQOwEOUrk6i9e15Vt2EZGC
 
-Streaming Data:
+# Streaming Data:
 
 1. Data can be streamed using the stream.py file.
 2. To run the streaming file, you will first be required to install the dependencies - numpy, pandas and tqdm. This can be done using pip3.
@@ -16,7 +16,7 @@ Streaming Data:
 7. If you are working with a datasetwith a large number of attributes, you may be required to adjust the batch size to a smaller value since there is a limit on how much data can be sent over a TCP connection. If your batch size is larger than what can be sent, the streaming file will display a logging message. The value of the maximum batch size for your dataset can be found out experimentally.
 
 
-Processing Stream:
+# Processing Stream:
 
 1. The size of each batch will be known to you at runtime. This value will remain constant throughout a single run of the process but can be changed for different experimental runs. It is suggested to hardcode this value inside your process, or recieve it as a command line argument to make implementation of a few functions easier.
 2. Data will be streamed using the stream.py file. The batch_size parameter controls the number of examples in each batch. You are suggested to experiment with the batch size and find how the batch size affects performance at each stage of the project – preprocessing, model building and so on.
@@ -37,7 +37,7 @@ Processing Stream:
 9. Optional: Use plots to show how each preprocessing step makes a difference in the spread nd distribution of your data and compare performance of your models across varying levels of preprocessing performed
 
 
-Learning from Data:
+# Learning from Data:
 
 1. After each batch has been preprocessed, it needs to be fed into a machine learning model for classification
 2. You cannot store all batches in memory. At every instant of time, the model must be re-fit on the input batch such that it learns incrementally, one batch at a time.
@@ -47,7 +47,7 @@ Learning from Data:
 6. Optional: Evaluate on the training set and find out how the performance on that training batch varies as the batch size increases. Vary the batch size and obtain the performance of your models on each training batch. Present your performance using suitable plots.
 
 
-Testing your Model:
+# Testing your Model:
 
 1. Similar to how the input data is streamed, the test data will also be streamed in batches. The size of the input stream may not be the same as that of the training data.
 2. For each batch, perform predictions using all the models that you have built.
@@ -63,7 +63,7 @@ Testing your Model:
 7. Optional: Create random shuffles of the entire dataset to set up cross-validation sets consisting of train and test batches. Evaluate and tune your models on each set of train and test batches and analyse the performance across them.
 
 
-Clustering:
+# Clustering:
 
 1. Similar to the previous sections, your data will be streamed in batches. However, this time the data will be streamed in an endless loop, i.e the first batch will again be streamed after all batches have been streamed.
 2. You must fit your clustering algorithm on each batch of input, such that it learns incrementally.
