@@ -2,6 +2,7 @@ import sys
 from pyspark import SparkContext
 from pyspark.streaming import StreamingContext
 from pyspark.sql import Row, SparkSession
+from pyspark.ml.feature import HashingTF,IDF,Tokenizer
 import json
 
 #Hyper parameters for the dataframe 
@@ -39,14 +40,35 @@ def process(time, rdd):
         rowRdd = rdd.map(parse_json)
         df = spark.createDataFrame(rowRdd)
 
+        df=df.withColumnRenamed("_1","subject").withColumnRenamed("_2","body").withColumnRenamed("_3","classification")
+
+        #df.printSchema()
 
         #This is for debugging , please comment it before continuing
-        result=df.collect()
+        """result=df.collect()
         for i in result:
-            print(i[0],i[2])
+            print(i[0],i[2])"""
+
+        tokenizer=Tokenizer(inputCol="body",outputCol="words")
+        wordsData=tokenizer.transform(df)
+        
+        hashingTF=HashingTF(inputCol="words",outputCol="rawFeatures",numFeatures=20)
+        featurizedData=hashingTF.transform(wordsData)
+
+        idf=IDF(inputCol="rawFeatures",outputCol="features")
+        idfModel=idf.fit(featurizedData)
+        rescaledData=idfModel.transform(featurizedData)
+
+        rescaledData.select("classification","features").show()
+
+        result=rescaledData.collect()
+        for i in result:
+            print(i["features"])
 
     except:
         pass
+
+model=None
 
 lines.foreachRDD(process)
 ssc.start()
