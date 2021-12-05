@@ -54,7 +54,7 @@ def process(time, rdd):
         #fea_df.show(10)
         targetAndPrediction=pipelineFit.transform(test_data).select('indexed_label','prediction')
         predictionAndTargetNumpy=np.array((targetAndPrediction.collect()))
-        print(accuracy_score(predictionAndTargetNumpy[:,0],predictionAndTargetNumpy[:,1]))
+        print(accuracy_score(predictionAndTargetNumpy[:,0],predictionAndTargetNumpy[:,1]) * 100)
     except:
         print("No Data")
     
