@@ -1,8 +1,4 @@
 
-"""This program applies non-incremental logistic regression for classification a
-and prints the accuracy for each batch"""
-
-
 import sys
 from sklearn.base import ClusterMixin
 from sklearn.linear_model import Perceptron
