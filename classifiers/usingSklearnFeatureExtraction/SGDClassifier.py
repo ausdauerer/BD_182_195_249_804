@@ -1,8 +1,4 @@
 
-"""This program applies non-incremental logistic regression for classification a
-and prints the accuracy for each batch"""
-
-
 import sys
 from sklearn.preprocessing import MaxAbsScaler
 from sklearn.feature_extraction.text import HashingVectorizer
